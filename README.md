@@ -14,13 +14,19 @@ Este projeto é um de dois dos projetos que fazem parte do bootcamp GFT #2 JAVA 
 ## Ecossistema usado:
 
 - Java 11;
-- Spring ()
+- Spring (Dependências: DevTools, Lombok, Spring Web, Data JPA, Actuator, H2 Database);
 - Apache Maven 3.6.3;
 - Intellj IDEA Community Edition; 
 - Controle de versionamento;
 - Lombok - https://projectlombok.org
 - Map Sctruct - https://mapstruct.org
 - Conta no Heroku para o deploy do projeto na nuvem, LINK PARA TESTAR API: https://diopeopleapi.herokuapp.com/api/v1/people
+
+
+
+OBS: Em breve desenvolveremos para essa aplicação o frontend com React,Angular com PostgreSQL. No Mobile, pretendemos desenvolver Flutter e React Native! 
+
+
 
 
 
