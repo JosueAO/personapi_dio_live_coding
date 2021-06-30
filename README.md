@@ -1,6 +1,6 @@
 ## Digital Innovation: Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
 
-Este projeto é um de dois dos projetos que fazem parte do bootcamp GFT #2 JAVA da Digital Innovation One. 
+Este projeto é um de dois dos projetos que fazem parte do bootcamp GFT #2 JAVA e Santander da Digital Innovation One. 
 
 - Setup inicial de projeto com o Spring Boot Initialzr (https://spring.io) 
 - IDE utilizada foi Intellij IDEA Community;
